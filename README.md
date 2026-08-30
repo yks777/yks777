@@ -26,8 +26,9 @@ Salve. Sou desenvolvedor. Programo desde 2018, começando com HTML e Game Maker 
   <img src="https://skillicons.dev/icons?i=html,css,git,docker,linux,bash&perline=6" alt="Web & Tools" />
 </p>
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,supabase,firebase,mongodb&perline=6" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,supabase,bun,firebase&mongodb=6" alt="Databases" />
 </p>
 
 <br>
