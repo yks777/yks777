@@ -12,8 +12,8 @@
 </div>
 
 <p align="center">
-  <i>"Os homens devem moldar seu caminho. A partir do momento em que você vir o caminho em tudo o que fizer, você se tornará o caminho."</i><br>
-  — Miyamoto Musashi
+  <i>"A vida consiste em aprender a beijar o soco que a vida te dá, sem aceitar que sua vida é uma merda e, com isso, superar-se junto com a sua dor."</i><br>
+  — YKS
 </p>
 
 ---
